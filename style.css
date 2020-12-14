@@ -118,6 +118,12 @@ img {
   align: center;
 }
 
+
+.aligncenter {
+    text-align: center;
+}
+
+
 blockquote {
   color: #33485e;
   font-weight: bolder;
