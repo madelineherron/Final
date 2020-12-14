@@ -99,6 +99,15 @@ margin-top: 100px;
   margin-right:0;
   padding left: 30px;
 }
+p{
+  margin-top:10px;
+  margin-bottom:0;
+  margin-left:30px;
+  margin-right:0;
+  padding left: 30px;
+  font-size: 7px; 
+}
+
 .Image{
   text-align: center;
 }
@@ -106,7 +115,7 @@ margin-top: 100px;
 blockquote {
   color: #33485e;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 20px;
   border-color: #33485e;
 } /*created two blockquotes total on website*/
 
