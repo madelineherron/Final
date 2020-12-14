@@ -100,14 +100,14 @@ margin-top: 100px;
   padding left: 30px;
 }
 .Image{
-  align-items: center;
+  text-align: center;
 }
 
 blockquote {
-  color: Navy;
+  color: #33485e;
   font-weight: bolder;
   font-size: 30px;
-  border-color: Navy;
+  border-color: #33485e;
 } /*created two blockquotes total on website*/
 
 .footer{
