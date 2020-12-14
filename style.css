@@ -115,7 +115,7 @@ margin-top: 100px;
 
 img {
   max-width: 100%;
-  align-items: center;
+  align: center;
 }
 
 blockquote {
