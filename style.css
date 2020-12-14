@@ -99,8 +99,16 @@ margin-top: 100px;
   margin-right:0;
   padding left: 30px;
 }
+.Image{
+  align-items: center;
+}
 
-
+blockquote {
+  color: Navy;
+  font-weight: bolder;
+  font-size: 30px;
+  border-color: Navy;
+} /*created two blockquotes total on website*/
 
 .footer{
   font-weight: bold;
